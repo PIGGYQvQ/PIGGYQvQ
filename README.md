@@ -8,5 +8,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
+![dark](https://raw.githubusercontent.com/PIGGYQvQ/PIGGYQvQ/output/github-contribution-grid-snake-dark.svg)
+
+
+
+![light](https://raw.githubusercontent.com/PIGGYQvQ/PIGGYQvQ/output/github-contribution-grid-snake.svg)
+
