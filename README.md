@@ -11,8 +11,7 @@
     size=28&
     width=600&
     duration=3000&
-    pause=1000"
-    alt="程序员日常">
+    pause=1000">
 </div>
 
 <!--动态分割线-->
