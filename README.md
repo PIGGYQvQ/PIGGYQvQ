@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-### Github 状态图
-[![](https://activity-graph.herokuapp.com/graph?username=PIGGYQvQ&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=fomalhaut1998&show_icons=true&theme=tokyonight)
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://blog.anheyu.com/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines= 少一个需求，多一根头发.;console.log(%22Hello%EF%BC%8Cworld%22)">
+  </a>
+</h1>
 
-### Github 贡献图
-[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PIGGYQvQ&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
