@@ -5,8 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?
     color=%2336BCF7&
     lines=少一份需求，多一根头发;
-    printf(%22Hello%2C World!%5Cn%22);
-    std::cout%20%3C%3C%20%22Hello%2C World!%22%20%3C%3C%20std::endl;&
+    printf(%22Hello%2C World!%5Cn%22);&
     center=true&
     size=28&
     width=600&
