@@ -1,9 +1,4 @@
 ## Hi there 👋
 
 <!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="http://blog.imautide.cloud/">
-    <img src="https://github-readme-typing-svg.vercel.app?ines= 少一个需求，多一根头发.;console.log(%22Hello%EF%BC%8Cworld%22)">
-  </a>
-</h1>
-
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&lines=少一份需求，多一根头发&center=true&size=28&width=600&duration=3000&pause=1000" alt="预览效果"> </div>
