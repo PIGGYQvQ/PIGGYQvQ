@@ -1,4 +1,7 @@
-![dark](https://raw.githubusercontent.com/PIGGYQvQ/PIGGYQvQ/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PIGGYQvQ/PIGGYQvQ/output/github-contribution-grid-snake-dark.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+</div>
+
 <!-- 动态打字效果 -->
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&lines=少一份需求，多一根头发;printf(%22Hello%2C+World!%5Cn%22);&center=true&size=28&width=600&duration=3000&pause=1000"> </div>
 <!--动态分割线-->
@@ -11,7 +14,7 @@
 
 ### 💻 关于
 欢迎来到这里，感谢你的浏览，相关告知： 
- - 本页部分界面处于关闭状态&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ~~原因看下面贪吃蛇🐍哈哈~~
+ - 本页部分界面处于关闭状态&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ~~原因看贪吃蛇🐍哈哈~~
  - 后续考虑分享自己开源代码和项目但还没有方向&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~对没错，小趴菜🥦也有大梦想！！！~~
  - 希望能与大家一起交流，学习和进步。
  - 祝大家代码无bug
@@ -26,7 +29,7 @@
  - 😜  熟人话痨，生人高冷
  - 🤬  需求，不要和我提需求
  
-## 技术栈
+## 💼 技术栈
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
 ![ACoreOS](https://img.shields.io/badge/-ACoreOS-00599C?style=flat&logo=ACoreOS)
@@ -40,7 +43,7 @@
 ![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### 学习中
+### ✍ 学习中
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
@@ -49,11 +52,18 @@
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 
 
+<div><img align="right" alt="GIF" src="assets/icons.png"/></div> 
 <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
 
+## 🚀
 
+<p align="center">
+  <a href="https://blog.liushen.fun">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIGGYQvQ&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
+  </a>
+</p>
 
-
-
-![light](https://raw.githubusercontent.com/PIGGYQvQ/PIGGYQvQ/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PIGGYQvQ/PIGGYQvQ/output/github-contribution-grid-snake.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+</div>
 
