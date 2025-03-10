@@ -58,7 +58,7 @@
 ## 🚀
 
 <p align="center">
-  <a href="https://blog.liushen.fun">
+  <a href="">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIGGYQvQ&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
   </a>
 </p>
